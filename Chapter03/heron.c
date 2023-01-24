@@ -22,6 +22,8 @@ int main(int argc, char *argv[argc + 1])
 			} else {
 				break;
 			}
+
+			printf("x = %.12f\n", x);
 		}
 
 		for (;;) {
